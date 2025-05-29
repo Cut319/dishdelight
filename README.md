@@ -22,9 +22,14 @@ Users: Dish Delight editors and end users
 
 # Contributors #
 Front-End: 
+
 Iman Insyirah Binti Shah Rizal
+
 Nur Afinda Audina Binti Muraji
+
 Nur Laila Manja Binti Rahman
+
 Back-End:
+
 Wong You Min
 
