@@ -21,15 +21,14 @@ Users: Dish Delight editors and end users
 * Server Environment: Xampp
 
 # Contributors #
-Front-End: 
-
+## Front-End: 
 Iman Insyirah Binti Shah Rizal
 
 Nur Afinda Audina Binti Muraji
 
 Nur Laila Manja Binti Rahman
 
-Back-End:
+## Back-End:
 
 Wong You Min
 
